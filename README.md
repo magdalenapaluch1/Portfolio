@@ -1,7 +1,7 @@
 # PORTFOLIO - Software Testing
 
 ## ABOUT ME
-I have 4,5 years of experience in design. I have got experience with creating technical documentation. Last three years I worked in designed teams in rail industry and earlier worked in FTTH projects for corporate client. I am oriented for technical sector, especially oil and gas industry.
+I have 4,5 years of experience in design. I have got experience with creating technical documentation. Last three years I worked in designed teams in rail industry and earlier worked in FTTH projects for corporate client. I am oriented for technical sector, especially oil and gas industry. I like learning new things eg. now I'm learning new language: Danish or when I have enough time I'm trying to crocheting. My guilty pleasure is playing Counter Strike: Global Offensive with friends.
 ## TOOLS
 * Jira
 * TestLink
