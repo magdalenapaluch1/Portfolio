@@ -15,9 +15,9 @@ I have 4,5 years of experience in design. I have got experience with creating te
 * SQL
 * Python - begginer
 ## CERTIFICATES
-Manual testing - Individual course by Waldemar Szafraniec 01.07.2022
-Autodesk Certified Professional: AutoCAD 2017
-SEP-certified (Association of Polish Electrical Engineers) up to 1kV (valid for 5 years) 2019
+* Manual testing - Individual course by Waldemar Szafraniec 01.07.2022
+* Autodesk Certified Professional: AutoCAD 2017
+* SEP-certified (Association of Polish Electrical Engineers) up to 1kV (valid for 5 years) 2019
 ## COURSES
 * Manual testing - Individual course by Waldemar Szafraniec
 ## RECOMENDED BLOGS
