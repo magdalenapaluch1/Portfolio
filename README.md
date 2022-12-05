@@ -32,7 +32,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * "Skumaj Bazy" by Kacper Sieradziński
 * "Pystart" by Kacper Sieradziński
 ## BOOKS
-* "Certyfikowany tester ISTQB Poziom podstawowy" Adam ROman, Lucjan Stapp
+* "Certyfikowany tester ISTQB Poziom podstawowy" Adam Roman, Lucjan Stapp
 * "Pasja testowania: Krzysztof Jadczyk
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
@@ -48,7 +48,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * [Test cases](https://drive.google.com/file/d/1mvO32fs9YYgWoEXyG0cpshDQpn-Kp8_c/view?usp=sharing)
 ## MY TEST CASE EXAMPLES FOR SCOUTS-TEST.FUTBOLKOLEKTYW
 * [Test Case's based on User Stories](https://docs.google.com/spreadsheets/d/1Mt6FQfttUFqRPDLyb7hc2ceToqsZNYIl9pZsS1tunlI/edit?usp=share_link)
-* [Test Case's based on experience_Website🇸](https://docs.google.com/spreadsheets/d/1589dqUD6PTWXDCuFfejT0MtGR948kEbCJlDr_RXLel8/edit?usp=sharing) 
+* [Test Case's based on Experience_Website🇸](https://docs.google.com/spreadsheets/d/1589dqUD6PTWXDCuFfejT0MtGR948kEbCJlDr_RXLel8/edit?usp=sharing) 
 ## MY BUGS
 ## MY BUGS FOR PGA TOUR SUPERSTORE
 * [The Promo Code was accepted without a discount.](https://drive.google.com/file/d/1U2pPctDuXkD8mvIYlm6LTd9KHaAGa8dd/view?usp=sharing)
