@@ -33,6 +33,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 # BOOKS
 * "Certyfikowany tester ISTQB Poziom podstawowy" Adam Roman, Lucjan Stapp
 * "Pasja testowania: Krzysztof Jadczyk
+* "Podróż przez świat testowania" Karolina Pawłowska, Natalia Pawlak
 # RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
