@@ -30,7 +30,6 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * "Jira od podstaw" (Udemy) 
 * "SQL od podstaw" (Udemy)
 * "Skumaj Bazy" by Kacper Sieradziński
-* "Pystart" by Kacper Sieradziński
 # BOOKS
 * "Certyfikowany tester ISTQB Poziom podstawowy" Adam Roman, Lucjan Stapp
 * "Pasja testowania: Krzysztof Jadczyk
