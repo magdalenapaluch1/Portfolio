@@ -11,12 +11,13 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * AutoCAD - Drafting software app;
 * Slack - Communication with team;
 * Chrome DevTools - For testing and bug report
+* DBeaver - SQL client software app 
 # TECH SKIILS
 * Software testing
 * Creating test cases
 * Reporting bugs
 * SCRUM
-* SQL
+* SQL - PostgresSQL
 * Python - begginer
 # CERTIFICATES
 * ISTQB Foundation Level - No. 18999 passed 10.2022
