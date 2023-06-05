@@ -12,6 +12,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * Slack - Communication with team;
 * Chrome DevTools - For testing and bug report
 * DBeaver - SQL client software app 
+* Postman - basic automated tests
 # TECH SKIILS
 * Software testing
 * Creating test cases
@@ -31,6 +32,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * "Jira od podstaw" (Udemy) 
 * "SQL od podstaw" (Udemy)
 * "Skumaj Bazy" by Kacper Sieradziński
+* "Podstawy testowania REST API"
 # BOOKS
 * "Certyfikowany tester ISTQB Poziom podstawowy" Adam Roman, Lucjan Stapp
 * "Pasja testowania: Krzysztof Jadczyk
