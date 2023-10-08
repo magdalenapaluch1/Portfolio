@@ -6,7 +6,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 # TOOLS
 * Jira - Project management;
 * TestLink - Test management system;
-* GitHub - Service to software development ahd version control;
+* GitHub - Service to software development and version control;
 * Mobizen - Screen recorder for mobile;
 * AutoCAD - Drafting software app;
 * Slack - Communication with team;
