@@ -25,7 +25,6 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * Manual testing - Individual course by Waldemar Szafraniec 01.07.2022
 * Dare IT: QA Challenge - Zostań Testerem Manualnym
 * Autodesk Certified Professional: AutoCAD 2017
-* SEP-certified (Association of Polish Electrical Engineers) up to 1kV (valid for 5 years) 2019
 # COURSES
 * Manual testing - Individual course by Waldemar Szafraniec
 * Dare IT: QA Challenge - Zostań Testerem Manualnym
