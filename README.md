@@ -1,7 +1,7 @@
 # PORTFOLIO - Software Testing
 
 # ABOUT ME
-My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AGH University of Science and Technology in Cracow. I have 5 years of experience in design. I have got experience with creating technical documentation. Last four years, I worked in designed teams in the rail industry and on FTTH projects for corporate clients. I am oriented in the technical sector, in the oil and gas industry and now testing knowledge. I like learning new things e.g. now I'm learning a new language: Danish or when I have enough time I'm trying to crochet. My guilty pleasure is playing Counter-Strike: Global Offensive (now CS2) with friends. 
+My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AGH University of Science and Technology in Cracow. I have 7 years of experience in design. I have got experience with creating technical documentation. Last years, I worked in designed teams in the rail industry and on FTTH projects for corporate clients. I am oriented in the technical sector, in the oil and gas industry and now testing knowledge. I like learning new things e.g. now I'm learning a new language: Danish or when I have enough time I'm trying to crochet. My guilty pleasure is playing Counter-Strike: Global Offensive (now CS2) with friends. 
 * [LinkedIn](https://www.linkedin.com/in/magdalena-paluch1/) 
 # TOOLS
 * Jira - Project management;
@@ -13,6 +13,7 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * Chrome DevTools - For testing and bug report
 * DBeaver - SQL client software app 
 * Postman - basic automated tests
+* Newman - command-line Collection Runner for Postman
 # TECH SKIILS
 * Software testing
 * Creating test cases
@@ -37,12 +38,12 @@ My name is Magdalena Paluch. I am master of Gas Engineering. I graduated from AG
 * "Certyfikowany tester ISTQB Poziom podstawowy" Adam Roman, Lucjan Stapp
 * "Pasja testowania: Krzysztof Jadczyk
 * "Podróż przez świat testowania" Karolina Pawłowska, Natalia Pawlak
+* "Testy A/B. Od kliknięcia do kliknięcia" Dan Siroker, Pete Koomen
 # RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
 * testuj.pl
 * testITka
-* remigiuszbednarczyk.pl
 # GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
